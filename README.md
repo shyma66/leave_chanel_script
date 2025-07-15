@@ -1,1 +1,1 @@
-# chanel_leave_script
+# leave_chanel_script
